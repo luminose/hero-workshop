@@ -1,0 +1,498 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9C4E4C641CEE8E2100C93D5E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C4E4C631CEE8E2100C93D5E /* AppDelegate.swift */; };
+		9C4E4C661CEE8E2100C93D5E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C4E4C651CEE8E2100C93D5E /* ViewController.swift */; };
+		9C4E4C681CEE8E2100C93D5E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C4E4C671CEE8E2100C93D5E /* Assets.xcassets */; };
+		9C4E4C6B1CEE8E2100C93D5E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C4E4C691CEE8E2100C93D5E /* Main.storyboard */; };
+		9C4E4C761CEE8E2100C93D5E /* Hero_WorkshopTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C4E4C751CEE8E2100C93D5E /* Hero_WorkshopTests.swift */; };
+		9C4E4C811CEE8E2100C93D5E /* Hero_WorkshopUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C4E4C801CEE8E2100C93D5E /* Hero_WorkshopUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		9C4E4C721CEE8E2100C93D5E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9C4E4C581CEE8E2100C93D5E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9C4E4C5F1CEE8E2100C93D5E;
+			remoteInfo = "Hero Workshop";
+		};
+		9C4E4C7D1CEE8E2100C93D5E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9C4E4C581CEE8E2100C93D5E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9C4E4C5F1CEE8E2100C93D5E;
+			remoteInfo = "Hero Workshop";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		9C4E4C601CEE8E2100C93D5E /* Hero Workshop.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hero Workshop.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9C4E4C631CEE8E2100C93D5E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		9C4E4C651CEE8E2100C93D5E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		9C4E4C671CEE8E2100C93D5E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		9C4E4C6A1CEE8E2100C93D5E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		9C4E4C6C1CEE8E2100C93D5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9C4E4C711CEE8E2100C93D5E /* Hero WorkshopTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hero WorkshopTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9C4E4C751CEE8E2100C93D5E /* Hero_WorkshopTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hero_WorkshopTests.swift; sourceTree = "<group>"; };
+		9C4E4C771CEE8E2100C93D5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9C4E4C7C1CEE8E2100C93D5E /* Hero WorkshopUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hero WorkshopUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9C4E4C801CEE8E2100C93D5E /* Hero_WorkshopUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hero_WorkshopUITests.swift; sourceTree = "<group>"; };
+		9C4E4C821CEE8E2100C93D5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9C4E4C5D1CEE8E2100C93D5E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9C4E4C6E1CEE8E2100C93D5E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9C4E4C791CEE8E2100C93D5E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9C4E4C571CEE8E2100C93D5E = {
+			isa = PBXGroup;
+			children = (
+				9C4E4C621CEE8E2100C93D5E /* Hero Workshop */,
+				9C4E4C741CEE8E2100C93D5E /* Hero WorkshopTests */,
+				9C4E4C7F1CEE8E2100C93D5E /* Hero WorkshopUITests */,
+				9C4E4C611CEE8E2100C93D5E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9C4E4C611CEE8E2100C93D5E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9C4E4C601CEE8E2100C93D5E /* Hero Workshop.app */,
+				9C4E4C711CEE8E2100C93D5E /* Hero WorkshopTests.xctest */,
+				9C4E4C7C1CEE8E2100C93D5E /* Hero WorkshopUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9C4E4C621CEE8E2100C93D5E /* Hero Workshop */ = {
+			isa = PBXGroup;
+			children = (
+				9C4E4C631CEE8E2100C93D5E /* AppDelegate.swift */,
+				9C4E4C651CEE8E2100C93D5E /* ViewController.swift */,
+				9C4E4C671CEE8E2100C93D5E /* Assets.xcassets */,
+				9C4E4C691CEE8E2100C93D5E /* Main.storyboard */,
+				9C4E4C6C1CEE8E2100C93D5E /* Info.plist */,
+			);
+			path = "Hero Workshop";
+			sourceTree = "<group>";
+		};
+		9C4E4C741CEE8E2100C93D5E /* Hero WorkshopTests */ = {
+			isa = PBXGroup;
+			children = (
+				9C4E4C751CEE8E2100C93D5E /* Hero_WorkshopTests.swift */,
+				9C4E4C771CEE8E2100C93D5E /* Info.plist */,
+			);
+			path = "Hero WorkshopTests";
+			sourceTree = "<group>";
+		};
+		9C4E4C7F1CEE8E2100C93D5E /* Hero WorkshopUITests */ = {
+			isa = PBXGroup;
+			children = (
+				9C4E4C801CEE8E2100C93D5E /* Hero_WorkshopUITests.swift */,
+				9C4E4C821CEE8E2100C93D5E /* Info.plist */,
+			);
+			path = "Hero WorkshopUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9C4E4C5F1CEE8E2100C93D5E /* Hero Workshop */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9C4E4C851CEE8E2100C93D5E /* Build configuration list for PBXNativeTarget "Hero Workshop" */;
+			buildPhases = (
+				9C4E4C5C1CEE8E2100C93D5E /* Sources */,
+				9C4E4C5D1CEE8E2100C93D5E /* Frameworks */,
+				9C4E4C5E1CEE8E2100C93D5E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Hero Workshop";
+			productName = "Hero Workshop";
+			productReference = 9C4E4C601CEE8E2100C93D5E /* Hero Workshop.app */;
+			productType = "com.apple.product-type.application";
+		};
+		9C4E4C701CEE8E2100C93D5E /* Hero WorkshopTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9C4E4C881CEE8E2100C93D5E /* Build configuration list for PBXNativeTarget "Hero WorkshopTests" */;
+			buildPhases = (
+				9C4E4C6D1CEE8E2100C93D5E /* Sources */,
+				9C4E4C6E1CEE8E2100C93D5E /* Frameworks */,
+				9C4E4C6F1CEE8E2100C93D5E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9C4E4C731CEE8E2100C93D5E /* PBXTargetDependency */,
+			);
+			name = "Hero WorkshopTests";
+			productName = "Hero WorkshopTests";
+			productReference = 9C4E4C711CEE8E2100C93D5E /* Hero WorkshopTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		9C4E4C7B1CEE8E2100C93D5E /* Hero WorkshopUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9C4E4C8B1CEE8E2100C93D5E /* Build configuration list for PBXNativeTarget "Hero WorkshopUITests" */;
+			buildPhases = (
+				9C4E4C781CEE8E2100C93D5E /* Sources */,
+				9C4E4C791CEE8E2100C93D5E /* Frameworks */,
+				9C4E4C7A1CEE8E2100C93D5E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9C4E4C7E1CEE8E2100C93D5E /* PBXTargetDependency */,
+			);
+			name = "Hero WorkshopUITests";
+			productName = "Hero WorkshopUITests";
+			productReference = 9C4E4C7C1CEE8E2100C93D5E /* Hero WorkshopUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9C4E4C581CEE8E2100C93D5E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = "Joel Bradley";
+				TargetAttributes = {
+					9C4E4C5F1CEE8E2100C93D5E = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+					9C4E4C701CEE8E2100C93D5E = {
+						CreatedOnToolsVersion = 7.3.1;
+						TestTargetID = 9C4E4C5F1CEE8E2100C93D5E;
+					};
+					9C4E4C7B1CEE8E2100C93D5E = {
+						CreatedOnToolsVersion = 7.3.1;
+						TestTargetID = 9C4E4C5F1CEE8E2100C93D5E;
+					};
+				};
+			};
+			buildConfigurationList = 9C4E4C5B1CEE8E2100C93D5E /* Build configuration list for PBXProject "Hero Workshop" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 9C4E4C571CEE8E2100C93D5E;
+			productRefGroup = 9C4E4C611CEE8E2100C93D5E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9C4E4C5F1CEE8E2100C93D5E /* Hero Workshop */,
+				9C4E4C701CEE8E2100C93D5E /* Hero WorkshopTests */,
+				9C4E4C7B1CEE8E2100C93D5E /* Hero WorkshopUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9C4E4C5E1CEE8E2100C93D5E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9C4E4C681CEE8E2100C93D5E /* Assets.xcassets in Resources */,
+				9C4E4C6B1CEE8E2100C93D5E /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9C4E4C6F1CEE8E2100C93D5E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9C4E4C7A1CEE8E2100C93D5E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9C4E4C5C1CEE8E2100C93D5E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9C4E4C661CEE8E2100C93D5E /* ViewController.swift in Sources */,
+				9C4E4C641CEE8E2100C93D5E /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9C4E4C6D1CEE8E2100C93D5E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9C4E4C761CEE8E2100C93D5E /* Hero_WorkshopTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9C4E4C781CEE8E2100C93D5E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9C4E4C811CEE8E2100C93D5E /* Hero_WorkshopUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		9C4E4C731CEE8E2100C93D5E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9C4E4C5F1CEE8E2100C93D5E /* Hero Workshop */;
+			targetProxy = 9C4E4C721CEE8E2100C93D5E /* PBXContainerItemProxy */;
+		};
+		9C4E4C7E1CEE8E2100C93D5E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9C4E4C5F1CEE8E2100C93D5E /* Hero Workshop */;
+			targetProxy = 9C4E4C7D1CEE8E2100C93D5E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		9C4E4C691CEE8E2100C93D5E /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9C4E4C6A1CEE8E2100C93D5E /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		9C4E4C831CEE8E2100C93D5E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		9C4E4C841CEE8E2100C93D5E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		9C4E4C861CEE8E2100C93D5E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = "Hero Workshop/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "zombiesausage.Hero-Workshop";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		9C4E4C871CEE8E2100C93D5E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = "Hero Workshop/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "zombiesausage.Hero-Workshop";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		9C4E4C891CEE8E2100C93D5E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = "Hero WorkshopTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "zombiesausage.Hero-WorkshopTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hero Workshop.app/Contents/MacOS/Hero Workshop";
+			};
+			name = Debug;
+		};
+		9C4E4C8A1CEE8E2100C93D5E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = "Hero WorkshopTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "zombiesausage.Hero-WorkshopTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hero Workshop.app/Contents/MacOS/Hero Workshop";
+			};
+			name = Release;
+		};
+		9C4E4C8C1CEE8E2100C93D5E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = "Hero WorkshopUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "zombiesausage.Hero-WorkshopUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = "Hero Workshop";
+			};
+			name = Debug;
+		};
+		9C4E4C8D1CEE8E2100C93D5E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = "Hero WorkshopUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "zombiesausage.Hero-WorkshopUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = "Hero Workshop";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9C4E4C5B1CEE8E2100C93D5E /* Build configuration list for PBXProject "Hero Workshop" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9C4E4C831CEE8E2100C93D5E /* Debug */,
+				9C4E4C841CEE8E2100C93D5E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9C4E4C851CEE8E2100C93D5E /* Build configuration list for PBXNativeTarget "Hero Workshop" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9C4E4C861CEE8E2100C93D5E /* Debug */,
+				9C4E4C871CEE8E2100C93D5E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		9C4E4C881CEE8E2100C93D5E /* Build configuration list for PBXNativeTarget "Hero WorkshopTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9C4E4C891CEE8E2100C93D5E /* Debug */,
+				9C4E4C8A1CEE8E2100C93D5E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		9C4E4C8B1CEE8E2100C93D5E /* Build configuration list for PBXNativeTarget "Hero WorkshopUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9C4E4C8C1CEE8E2100C93D5E /* Debug */,
+				9C4E4C8D1CEE8E2100C93D5E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9C4E4C581CEE8E2100C93D5E /* Project object */;
+}
