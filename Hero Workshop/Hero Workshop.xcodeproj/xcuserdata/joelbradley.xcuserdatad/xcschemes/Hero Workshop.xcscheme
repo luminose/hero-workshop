@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9C4E4C5F1CEE8E2100C93D5E"
+               BlueprintIdentifier = "9CB821A21CEFFBAB007A3E1F"
                BuildableName = "Hero Workshop.app"
                BlueprintName = "Hero Workshop"
                ReferencedContainer = "container:Hero Workshop.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9C4E4C701CEE8E2100C93D5E"
+               BlueprintIdentifier = "9CB821B11CEFFBAB007A3E1F"
                BuildableName = "Hero WorkshopTests.xctest"
                BlueprintName = "Hero WorkshopTests"
                ReferencedContainer = "container:Hero Workshop.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9C4E4C7B1CEE8E2100C93D5E"
+               BlueprintIdentifier = "9CB821BC1CEFFBAC007A3E1F"
                BuildableName = "Hero WorkshopUITests.xctest"
                BlueprintName = "Hero WorkshopUITests"
                ReferencedContainer = "container:Hero Workshop.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9C4E4C5F1CEE8E2100C93D5E"
+            BlueprintIdentifier = "9CB821A21CEFFBAB007A3E1F"
             BuildableName = "Hero Workshop.app"
             BlueprintName = "Hero Workshop"
             ReferencedContainer = "container:Hero Workshop.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9C4E4C5F1CEE8E2100C93D5E"
+            BlueprintIdentifier = "9CB821A21CEFFBAB007A3E1F"
             BuildableName = "Hero Workshop.app"
             BlueprintName = "Hero Workshop"
             ReferencedContainer = "container:Hero Workshop.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9C4E4C5F1CEE8E2100C93D5E"
+            BlueprintIdentifier = "9CB821A21CEFFBAB007A3E1F"
             BuildableName = "Hero Workshop.app"
             BlueprintName = "Hero Workshop"
             ReferencedContainer = "container:Hero Workshop.xcodeproj">

@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Hero Workshop
 //
-//  Created by Joel Bradley on 5/19/16.
+//  Created by Joel Bradley on 5/20/16.
 //  Copyright © 2016 Joel Bradley. All rights reserved.
 //
 
@@ -11,6 +11,7 @@ import Cocoa
 @NSApplicationMain
 class AppDelegate: NSObject, NSApplicationDelegate {
 
+    @IBOutlet weak var window: NSWindow!
 
 
     func applicationDidFinishLaunching(aNotification: NSNotification) {
